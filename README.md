@@ -2,22 +2,22 @@
 
 CS + Math @ UIUC  
 Prev Engineering Product Specialist Intern @ Cisco (SD-WAN)  
-Building backend systems, AI tools, and scalable data infrastructure
+Building scalable backend systems, AI infrastructure, and LLM-powered tools
 
 ---
 
 ## 🚀 Currently
-- AI Research Intern @ UIUC NLP Research Group  
-- Lead Software Engineer @ OTCR (backend systems + APIs)  
-- VP @ Product Space (LLM-powered products)
+- AI Research Intern @ UIUC NLP Research Group (LLM behavior + evaluation)
+- Lead Software Engineer @ OTCR (backend systems + APIs at scale)
+- VP @ Product Space (shipping LLM-powered products)
 
 ---
 
 ## 🛠 Work Highlights
-- Built LLM-powered system querying 5M+ row datasets (Cisco)
-- Automated SD-WAN router certification across networking protocols
-- Running LLM experiments on Qwen/LLaMA (vLLM, HuggingFace)
-- Built distributed search engine with TF-IDF + Redis caching
+- Built LLM-powered system querying 5M+ row enterprise datasets (Cisco)
+- Automated SD-WAN router certification across core networking protocols
+- Conducting large-scale LLM experiments (Qwen/LLaMA, vLLM, HuggingFace)
+- Built distributed search engine with TF-IDF ranking + Redis caching
 
 ---
 
