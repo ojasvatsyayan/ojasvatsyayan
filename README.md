@@ -1,7 +1,7 @@
 # Hi, I'm Ojas 👋
 
 CS + Math @ UIUC  
-Prev Engineering Product Specialist Intern @ Cisco (SD-WAN)  
+Prev Software Engineering Intern @ Cisco (SD-WAN)  
 Building scalable backend systems, AI infrastructure, and LLM-powered tools
 
 ---
