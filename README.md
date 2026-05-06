@@ -1,9 +1,9 @@
 # Hi, I'm Ojas 👋
 
-CS + Math @ UIUC  
-Prev Software Engineering Intern @ Cisco (SD-WAN team)  
-Software Engineering Intern @ Visa (Payments Platform team)
-Building scalable backend systems, AI infrastructure, and LLM-powered tools
+- CS + Math @ UIUC  
+- Prev Software Engineering Intern @ Cisco (SD-WAN team)  
+- Software Engineering Intern @ Visa (Payments Platform team)
+- Building scalable backend systems, AI infrastructure, and LLM-powered tools
 
 ---
 
