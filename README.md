@@ -1,12 +1,13 @@
 # Hi, I'm Ojas 👋
 
 CS + Math @ UIUC  
-Prev Software Engineering Intern @ Cisco (SD-WAN)  
+Prev Software Engineering Intern @ Cisco (SD-WAN team)  
 Building scalable backend systems, AI infrastructure, and LLM-powered tools
 
 ---
 
 ## 🚀 Currently
+- Software Engineering Intern @ Visa (Payments Platform team)
 - AI Research Intern @ UIUC NLP Research Group (LLM behavior + evaluation)
 - Lead Software Engineer @ OTCR (backend systems + APIs at scale)
 - VP @ Product Space (shipping LLM-powered products)
